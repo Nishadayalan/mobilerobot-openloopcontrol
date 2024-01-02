@@ -110,7 +110,7 @@ https://youtube.com/shorts/JjgJRkMUOOM?si=zufK1f9miiV93_yR
 
 
 ## Result:
-Thus the python program code is developed to move the mobilerobot in the predefined path.
+Thus the python program code is developed to move the mobilerobot in the predefined path.ss
 
 
 
